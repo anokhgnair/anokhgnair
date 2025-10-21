@@ -1,8 +1,7 @@
 ### Hey there!! This is Anokh👋
 ---
-### 🔭 About Me :
+## 🔭 About Me :
 
-----
 ###### Currently working on :  
   🔹 Innovative cybersecurity and biotechnology projects
      
