@@ -9,7 +9,7 @@
   🔹 Machine Learning  🔹 Python 
 ###### Open to collaborating on:
  🔹 Open Source Projects 
-🔹 Research Papers
+  🔹 Research Papers
 ###### Fun fact:
    I’m a 3x national medalist and a night-owl coder who loves turning bold ideas into reality..
 
