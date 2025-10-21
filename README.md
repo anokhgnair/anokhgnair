@@ -3,8 +3,7 @@
 ## 🔭 About Me :
 
 ###### Currently working on :  
-  🔹 Innovative cybersecurity and     biotechnology projects
- 
+  🔹 Innovative cybersecurity and biotechnology projects
   🔹 Integration of quantum technology
 ###### Currently learning : 
   🔹 Machine Learning  🔹 Python 
