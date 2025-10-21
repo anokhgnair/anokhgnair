@@ -2,7 +2,7 @@
 ---
 ## 🔭 About Me :
 
-###### Currently working on : 
+###### Currently working on :  
   🔹 Innovative cybersecurity and biotechnology projects
     🔹 Integration of quantum technology
 ###### Currently learning : 
