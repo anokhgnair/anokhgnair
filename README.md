@@ -4,8 +4,7 @@
 
 ###### Currently working on :  
   🔹 Innovative cybersecurity 
-      and biotechnology projects
-     
+       biotechnology projects
   🔹 Integration of quantum technology
 
 
