@@ -4,13 +4,11 @@
 
 ###### Currently working on :  
   🔹 Innovative cybersecurity      
-       biotechnology projects
 
-  🔹 Integration of quantum technology
 
 
 ###### Currently learning : 
-  🔹 Machine Learning  🔹 Python 
+  🔹 Network Security  🔹 Python 
 ###### Open to collaborating on:
  🔹 Open Source Projects 
   
